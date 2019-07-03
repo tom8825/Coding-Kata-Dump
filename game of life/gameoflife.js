@@ -64,4 +64,3 @@ function runGame(){
         }
     }, 250)
 }
-runGame();
